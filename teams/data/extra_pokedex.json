@@ -1,0 +1,2114 @@
+{
+ "raichumegax": {
+  "name": "Raichu-Mega-X",
+  "num": 26,
+  "types": [
+   "Electric"
+  ],
+  "baseStats": {
+   "hp": 60,
+   "atk": 135,
+   "def": 95,
+   "spa": 90,
+   "spd": 95,
+   "spe": 110
+  },
+  "abilities": {
+   "0": "Electric Surge"
+  },
+  "heightm": 1.2,
+  "weightkg": 38,
+  "baseSpecies": "Raichu",
+  "forme": "Mega-X",
+  "requiredItem": "Raichunite X"
+ },
+ "raichumegay": {
+  "name": "Raichu-Mega-Y",
+  "num": 26,
+  "types": [
+   "Electric"
+  ],
+  "baseStats": {
+   "hp": 60,
+   "atk": 100,
+   "def": 55,
+   "spa": 160,
+   "spd": 80,
+   "spe": 130
+  },
+  "abilities": {
+   "0": "No Guard"
+  },
+  "heightm": 1,
+  "weightkg": 26,
+  "baseSpecies": "Raichu",
+  "forme": "Mega-Y",
+  "requiredItem": "Raichunite Y"
+ },
+ "clefablemega": {
+  "name": "Clefable-Mega",
+  "num": 36,
+  "types": [
+   "Fairy",
+   "Flying"
+  ],
+  "baseStats": {
+   "hp": 95,
+   "atk": 80,
+   "def": 93,
+   "spa": 135,
+   "spd": 110,
+   "spe": 70
+  },
+  "abilities": {
+   "0": "Magic Bounce"
+  },
+  "heightm": 1.7,
+  "weightkg": 42.3,
+  "baseSpecies": "Clefable",
+  "forme": "Mega",
+  "requiredItem": "Clefablite"
+ },
+ "victreebelmega": {
+  "name": "Victreebel-Mega",
+  "num": 71,
+  "types": [
+   "Grass",
+   "Poison"
+  ],
+  "baseStats": {
+   "hp": 80,
+   "atk": 125,
+   "def": 85,
+   "spa": 135,
+   "spd": 95,
+   "spe": 70
+  },
+  "abilities": {
+   "0": "Innards Out"
+  },
+  "heightm": 4.5,
+  "weightkg": 125.5,
+  "baseSpecies": "Victreebel",
+  "forme": "Mega",
+  "requiredItem": "Victreebelite"
+ },
+ "starmiemega": {
+  "name": "Starmie-Mega",
+  "num": 121,
+  "types": [
+   "Water",
+   "Psychic"
+  ],
+  "baseStats": {
+   "hp": 60,
+   "atk": 100,
+   "def": 105,
+   "spa": 130,
+   "spd": 105,
+   "spe": 120
+  },
+  "abilities": {
+   "0": "Huge Power"
+  },
+  "heightm": 2.3,
+  "weightkg": 80,
+  "baseSpecies": "Starmie",
+  "forme": "Mega",
+  "requiredItem": "Starminite"
+ },
+ "dragonitemega": {
+  "name": "Dragonite-Mega",
+  "num": 149,
+  "types": [
+   "Dragon",
+   "Flying"
+  ],
+  "baseStats": {
+   "hp": 91,
+   "atk": 124,
+   "def": 115,
+   "spa": 145,
+   "spd": 125,
+   "spe": 100
+  },
+  "abilities": {
+   "0": "Multiscale"
+  },
+  "heightm": 2.2,
+  "weightkg": 290,
+  "baseSpecies": "Dragonite",
+  "forme": "Mega",
+  "requiredItem": "Dragoninite"
+ },
+ "meganiummega": {
+  "name": "Meganium-Mega",
+  "num": 154,
+  "types": [
+   "Grass",
+   "Fairy"
+  ],
+  "baseStats": {
+   "hp": 80,
+   "atk": 92,
+   "def": 115,
+   "spa": 143,
+   "spd": 115,
+   "spe": 80
+  },
+  "abilities": {
+   "0": "Mega Sol"
+  },
+  "heightm": 2.4,
+  "weightkg": 201,
+  "baseSpecies": "Meganium",
+  "forme": "Mega",
+  "requiredItem": "Meganiumite"
+ },
+ "feraligatrmega": {
+  "name": "Feraligatr-Mega",
+  "num": 160,
+  "types": [
+   "Water",
+   "Dragon"
+  ],
+  "baseStats": {
+   "hp": 85,
+   "atk": 160,
+   "def": 125,
+   "spa": 89,
+   "spd": 93,
+   "spe": 78
+  },
+  "abilities": {
+   "0": "Dragonize"
+  },
+  "heightm": 2.3,
+  "weightkg": 108.8,
+  "baseSpecies": "Feraligatr",
+  "forme": "Mega",
+  "requiredItem": "Feraligite"
+ },
+ "skarmorymega": {
+  "name": "Skarmory-Mega",
+  "num": 227,
+  "types": [
+   "Steel",
+   "Flying"
+  ],
+  "baseStats": {
+   "hp": 65,
+   "atk": 140,
+   "def": 110,
+   "spa": 40,
+   "spd": 100,
+   "spe": 110
+  },
+  "abilities": {
+   "0": "Stalwart"
+  },
+  "heightm": 1.7,
+  "weightkg": 40.4,
+  "baseSpecies": "Skarmory",
+  "forme": "Mega",
+  "requiredItem": "Skarmorite"
+ },
+ "chimechomega": {
+  "name": "Chimecho-Mega",
+  "num": 358,
+  "types": [
+   "Psychic",
+   "Steel"
+  ],
+  "baseStats": {
+   "hp": 75,
+   "atk": 50,
+   "def": 110,
+   "spa": 135,
+   "spd": 120,
+   "spe": 65
+  },
+  "abilities": {
+   "0": "Levitate"
+  },
+  "heightm": 1.2,
+  "weightkg": 8,
+  "baseSpecies": "Chimecho",
+  "forme": "Mega",
+  "requiredItem": "Chimechite"
+ },
+ "absolmegaz": {
+  "name": "Absol-Mega-Z",
+  "num": 359,
+  "types": [
+   "Dark",
+   "Ghost"
+  ],
+  "baseStats": {
+   "hp": 65,
+   "atk": 154,
+   "def": 60,
+   "spa": 75,
+   "spd": 60,
+   "spe": 151
+  },
+  "abilities": {
+   "0": "Sharpness"
+  },
+  "heightm": 1.2,
+  "weightkg": 49,
+  "baseSpecies": "Absol",
+  "forme": "Mega-Z",
+  "requiredItem": "Absolite Z"
+ },
+ "staraptormega": {
+  "name": "Staraptor-Mega",
+  "num": 398,
+  "types": [
+   "Fighting",
+   "Flying"
+  ],
+  "baseStats": {
+   "hp": 85,
+   "atk": 140,
+   "def": 100,
+   "spa": 60,
+   "spd": 90,
+   "spe": 110
+  },
+  "abilities": {
+   "0": "Contrary"
+  },
+  "heightm": 1.9,
+  "weightkg": 50,
+  "baseSpecies": "Staraptor",
+  "forme": "Mega",
+  "requiredItem": "Staraptite"
+ },
+ "burmysandy": {
+  "name": "Burmy-Sandy",
+  "num": 412,
+  "types": [
+   "Bug"
+  ],
+  "baseStats": {
+   "hp": 40,
+   "atk": 29,
+   "def": 45,
+   "spa": 29,
+   "spd": 45,
+   "spe": 36
+  },
+  "abilities": {
+   "0": "Shed Skin",
+   "H": "Overcoat"
+  },
+  "heightm": 0.2,
+  "weightkg": 3.4,
+  "baseSpecies": "Burmy",
+  "forme": "Sandy"
+ },
+ "burmytrash": {
+  "name": "Burmy-Trash",
+  "num": 412,
+  "types": [
+   "Bug"
+  ],
+  "baseStats": {
+   "hp": 40,
+   "atk": 29,
+   "def": 45,
+   "spa": 29,
+   "spd": 45,
+   "spe": 36
+  },
+  "abilities": {
+   "0": "Shed Skin",
+   "H": "Overcoat"
+  },
+  "heightm": 0.2,
+  "weightkg": 3.4,
+  "baseSpecies": "Burmy",
+  "forme": "Trash"
+ },
+ "shelloseast": {
+  "name": "Shellos-East",
+  "num": 422,
+  "types": [
+   "Water"
+  ],
+  "baseStats": {
+   "hp": 76,
+   "atk": 48,
+   "def": 48,
+   "spa": 57,
+   "spd": 62,
+   "spe": 34
+  },
+  "abilities": {
+   "0": "Sticky Hold",
+   "1": "Storm Drain",
+   "H": "Sand Force"
+  },
+  "heightm": 0.3,
+  "weightkg": 6.3,
+  "baseSpecies": "Shellos",
+  "forme": "East"
+ },
+ "gastrodoneast": {
+  "name": "Gastrodon-East",
+  "num": 423,
+  "types": [
+   "Water",
+   "Ground"
+  ],
+  "baseStats": {
+   "hp": 111,
+   "atk": 83,
+   "def": 68,
+   "spa": 92,
+   "spd": 82,
+   "spe": 39
+  },
+  "abilities": {
+   "0": "Sticky Hold",
+   "1": "Storm Drain",
+   "H": "Sand Force"
+  },
+  "heightm": 0.9,
+  "weightkg": 29.9,
+  "baseSpecies": "Gastrodon",
+  "forme": "East"
+ },
+ "garchompmegaz": {
+  "name": "Garchomp-Mega-Z",
+  "num": 445,
+  "types": [
+   "Dragon"
+  ],
+  "baseStats": {
+   "hp": 108,
+   "atk": 130,
+   "def": 85,
+   "spa": 141,
+   "spd": 85,
+   "spe": 151
+  },
+  "abilities": {
+   "0": "Levitate"
+  },
+  "heightm": 1.9,
+  "weightkg": 99,
+  "baseSpecies": "Garchomp",
+  "forme": "Mega-Z",
+  "requiredItem": "Garchompite Z"
+ },
+ "lucariomegaz": {
+  "name": "Lucario-Mega-Z",
+  "num": 448,
+  "types": [
+   "Fighting",
+   "Steel"
+  ],
+  "baseStats": {
+   "hp": 70,
+   "atk": 100,
+   "def": 70,
+   "spa": 164,
+   "spd": 70,
+   "spe": 151
+  },
+  "abilities": {
+   "0": "Aura Guard"
+  },
+  "heightm": 1.3,
+  "weightkg": 49.4,
+  "baseSpecies": "Lucario",
+  "forme": "Mega-Z",
+  "requiredItem": "Lucarionite Z"
+ },
+ "froslassmega": {
+  "name": "Froslass-Mega",
+  "num": 478,
+  "types": [
+   "Ice",
+   "Ghost"
+  ],
+  "baseStats": {
+   "hp": 70,
+   "atk": 80,
+   "def": 70,
+   "spa": 140,
+   "spd": 100,
+   "spe": 120
+  },
+  "abilities": {
+   "0": "Snow Warning"
+  },
+  "heightm": 2.6,
+  "weightkg": 29.6,
+  "baseSpecies": "Froslass",
+  "forme": "Mega",
+  "requiredItem": "Froslassite"
+ },
+ "heatranmega": {
+  "name": "Heatran-Mega",
+  "num": 485,
+  "types": [
+   "Fire",
+   "Steel"
+  ],
+  "baseStats": {
+   "hp": 91,
+   "atk": 120,
+   "def": 106,
+   "spa": 175,
+   "spd": 141,
+   "spe": 67
+  },
+  "abilities": {
+   "0": "Flash Fire",
+   "H": "Flame Body"
+  },
+  "heightm": 2.8,
+  "weightkg": 570,
+  "baseSpecies": "Heatran",
+  "forme": "Mega",
+  "requiredItem": "Heatranite"
+ },
+ "darkraimega": {
+  "name": "Darkrai-Mega",
+  "num": 491,
+  "types": [
+   "Dark"
+  ],
+  "baseStats": {
+   "hp": 70,
+   "atk": 120,
+   "def": 130,
+   "spa": 165,
+   "spd": 130,
+   "spe": 85
+  },
+  "abilities": {
+   "0": "Bad Dreams"
+  },
+  "heightm": 3,
+  "weightkg": 240,
+  "baseSpecies": "Darkrai",
+  "forme": "Mega",
+  "requiredItem": "Darkranite"
+ },
+ "emboarmega": {
+  "name": "Emboar-Mega",
+  "num": 500,
+  "types": [
+   "Fire",
+   "Fighting"
+  ],
+  "baseStats": {
+   "hp": 110,
+   "atk": 148,
+   "def": 75,
+   "spa": 110,
+   "spd": 110,
+   "spe": 75
+  },
+  "abilities": {
+   "0": "Mold Breaker"
+  },
+  "heightm": 1.8,
+  "weightkg": 180.3,
+  "baseSpecies": "Emboar",
+  "forme": "Mega",
+  "requiredItem": "Emboarite"
+ },
+ "excadrillmega": {
+  "name": "Excadrill-Mega",
+  "num": 530,
+  "types": [
+   "Ground",
+   "Steel"
+  ],
+  "baseStats": {
+   "hp": 110,
+   "atk": 165,
+   "def": 100,
+   "spa": 65,
+   "spd": 65,
+   "spe": 103
+  },
+  "abilities": {
+   "0": "Piercing Drill"
+  },
+  "heightm": 0.9,
+  "weightkg": 60,
+  "baseSpecies": "Excadrill",
+  "forme": "Mega",
+  "requiredItem": "Excadrite"
+ },
+ "scolipedemega": {
+  "name": "Scolipede-Mega",
+  "num": 545,
+  "types": [
+   "Bug",
+   "Poison"
+  ],
+  "baseStats": {
+   "hp": 60,
+   "atk": 140,
+   "def": 149,
+   "spa": 75,
+   "spd": 99,
+   "spe": 62
+  },
+  "abilities": {
+   "0": "Shell Armor"
+  },
+  "heightm": 3.2,
+  "weightkg": 230.5,
+  "baseSpecies": "Scolipede",
+  "forme": "Mega",
+  "requiredItem": "Scolipite"
+ },
+ "scraftymega": {
+  "name": "Scrafty-Mega",
+  "num": 560,
+  "types": [
+   "Dark",
+   "Fighting"
+  ],
+  "baseStats": {
+   "hp": 65,
+   "atk": 130,
+   "def": 135,
+   "spa": 55,
+   "spd": 135,
+   "spe": 68
+  },
+  "abilities": {
+   "0": "Intimidate"
+  },
+  "heightm": 1.1,
+  "weightkg": 31,
+  "baseSpecies": "Scrafty",
+  "forme": "Mega",
+  "requiredItem": "Scraftinite"
+ },
+ "deerlingsummer": {
+  "name": "Deerling-Summer",
+  "num": 585,
+  "types": [
+   "Normal",
+   "Grass"
+  ],
+  "baseStats": {
+   "hp": 60,
+   "atk": 60,
+   "def": 50,
+   "spa": 40,
+   "spd": 50,
+   "spe": 75
+  },
+  "abilities": {
+   "0": "Chlorophyll",
+   "1": "Sap Sipper",
+   "H": "Serene Grace"
+  },
+  "heightm": 0.6,
+  "weightkg": 19.5,
+  "baseSpecies": "Deerling",
+  "forme": "Summer"
+ },
+ "deerlingautumn": {
+  "name": "Deerling-Autumn",
+  "num": 585,
+  "types": [
+   "Normal",
+   "Grass"
+  ],
+  "baseStats": {
+   "hp": 60,
+   "atk": 60,
+   "def": 50,
+   "spa": 40,
+   "spd": 50,
+   "spe": 75
+  },
+  "abilities": {
+   "0": "Chlorophyll",
+   "1": "Sap Sipper",
+   "H": "Serene Grace"
+  },
+  "heightm": 0.6,
+  "weightkg": 19.5,
+  "baseSpecies": "Deerling",
+  "forme": "Autumn"
+ },
+ "deerlingwinter": {
+  "name": "Deerling-Winter",
+  "num": 585,
+  "types": [
+   "Normal",
+   "Grass"
+  ],
+  "baseStats": {
+   "hp": 60,
+   "atk": 60,
+   "def": 50,
+   "spa": 40,
+   "spd": 50,
+   "spe": 75
+  },
+  "abilities": {
+   "0": "Chlorophyll",
+   "1": "Sap Sipper",
+   "H": "Serene Grace"
+  },
+  "heightm": 0.6,
+  "weightkg": 19.5,
+  "baseSpecies": "Deerling",
+  "forme": "Winter"
+ },
+ "eelektrossmega": {
+  "name": "Eelektross-Mega",
+  "num": 604,
+  "types": [
+   "Electric"
+  ],
+  "baseStats": {
+   "hp": 85,
+   "atk": 145,
+   "def": 80,
+   "spa": 135,
+   "spd": 90,
+   "spe": 80
+  },
+  "abilities": {
+   "0": "Eelevate"
+  },
+  "heightm": 3,
+  "weightkg": 180,
+  "baseSpecies": "Eelektross",
+  "forme": "Mega",
+  "requiredItem": "Eelektrossite"
+ },
+ "chandeluremega": {
+  "name": "Chandelure-Mega",
+  "num": 609,
+  "types": [
+   "Ghost",
+   "Fire"
+  ],
+  "baseStats": {
+   "hp": 60,
+   "atk": 75,
+   "def": 110,
+   "spa": 175,
+   "spd": 110,
+   "spe": 90
+  },
+  "abilities": {
+   "0": "Infiltrator"
+  },
+  "heightm": 2.5,
+  "weightkg": 69.6,
+  "baseSpecies": "Chandelure",
+  "forme": "Mega",
+  "requiredItem": "Chandelurite"
+ },
+ "golurkmega": {
+  "name": "Golurk-Mega",
+  "num": 623,
+  "types": [
+   "Ground",
+   "Ghost"
+  ],
+  "baseStats": {
+   "hp": 89,
+   "atk": 159,
+   "def": 105,
+   "spa": 70,
+   "spd": 105,
+   "spe": 55
+  },
+  "abilities": {
+   "0": "Unseen Fist"
+  },
+  "heightm": 4,
+  "weightkg": 330,
+  "baseSpecies": "Golurk",
+  "forme": "Mega",
+  "requiredItem": "Golurkite"
+ },
+ "chesnaughtmega": {
+  "name": "Chesnaught-Mega",
+  "num": 652,
+  "types": [
+   "Grass",
+   "Fighting"
+  ],
+  "baseStats": {
+   "hp": 88,
+   "atk": 137,
+   "def": 172,
+   "spa": 74,
+   "spd": 115,
+   "spe": 44
+  },
+  "abilities": {
+   "0": "Bulletproof"
+  },
+  "heightm": 1.6,
+  "weightkg": 90,
+  "baseSpecies": "Chesnaught",
+  "forme": "Mega",
+  "requiredItem": "Chesnaughtite"
+ },
+ "delphoxmega": {
+  "name": "Delphox-Mega",
+  "num": 655,
+  "types": [
+   "Fire",
+   "Psychic"
+  ],
+  "baseStats": {
+   "hp": 75,
+   "atk": 69,
+   "def": 72,
+   "spa": 159,
+   "spd": 125,
+   "spe": 134
+  },
+  "abilities": {
+   "0": "Levitate"
+  },
+  "heightm": 1.5,
+  "weightkg": 39,
+  "baseSpecies": "Delphox",
+  "forme": "Mega",
+  "requiredItem": "Delphoxite"
+ },
+ "greninjamega": {
+  "name": "Greninja-Mega",
+  "num": 658,
+  "types": [
+   "Water",
+   "Dark"
+  ],
+  "baseStats": {
+   "hp": 72,
+   "atk": 125,
+   "def": 77,
+   "spa": 133,
+   "spd": 81,
+   "spe": 142
+  },
+  "abilities": {
+   "0": "Protean"
+  },
+  "heightm": 1.5,
+  "weightkg": 40,
+  "baseSpecies": "Greninja",
+  "forme": "Mega",
+  "requiredItem": "Greninjite"
+ },
+ "vivillonicysnow": {
+  "name": "Vivillon-Icy Snow",
+  "num": 666,
+  "types": [
+   "Bug",
+   "Flying"
+  ],
+  "baseStats": {
+   "hp": 80,
+   "atk": 52,
+   "def": 50,
+   "spa": 90,
+   "spd": 50,
+   "spe": 89
+  },
+  "abilities": {
+   "0": "Shield Dust",
+   "1": "Compound Eyes",
+   "H": "Friend Guard"
+  },
+  "heightm": 1.2,
+  "weightkg": 17,
+  "baseSpecies": "Vivillon",
+  "forme": "Icy Snow"
+ },
+ "vivillonpolar": {
+  "name": "Vivillon-Polar",
+  "num": 666,
+  "types": [
+   "Bug",
+   "Flying"
+  ],
+  "baseStats": {
+   "hp": 80,
+   "atk": 52,
+   "def": 50,
+   "spa": 90,
+   "spd": 50,
+   "spe": 89
+  },
+  "abilities": {
+   "0": "Shield Dust",
+   "1": "Compound Eyes",
+   "H": "Friend Guard"
+  },
+  "heightm": 1.2,
+  "weightkg": 17,
+  "baseSpecies": "Vivillon",
+  "forme": "Polar"
+ },
+ "vivillontundra": {
+  "name": "Vivillon-Tundra",
+  "num": 666,
+  "types": [
+   "Bug",
+   "Flying"
+  ],
+  "baseStats": {
+   "hp": 80,
+   "atk": 52,
+   "def": 50,
+   "spa": 90,
+   "spd": 50,
+   "spe": 89
+  },
+  "abilities": {
+   "0": "Shield Dust",
+   "1": "Compound Eyes",
+   "H": "Friend Guard"
+  },
+  "heightm": 1.2,
+  "weightkg": 17,
+  "baseSpecies": "Vivillon",
+  "forme": "Tundra"
+ },
+ "vivilloncontinental": {
+  "name": "Vivillon-Continental",
+  "num": 666,
+  "types": [
+   "Bug",
+   "Flying"
+  ],
+  "baseStats": {
+   "hp": 80,
+   "atk": 52,
+   "def": 50,
+   "spa": 90,
+   "spd": 50,
+   "spe": 89
+  },
+  "abilities": {
+   "0": "Shield Dust",
+   "1": "Compound Eyes",
+   "H": "Friend Guard"
+  },
+  "heightm": 1.2,
+  "weightkg": 17,
+  "baseSpecies": "Vivillon",
+  "forme": "Continental"
+ },
+ "vivillongarden": {
+  "name": "Vivillon-Garden",
+  "num": 666,
+  "types": [
+   "Bug",
+   "Flying"
+  ],
+  "baseStats": {
+   "hp": 80,
+   "atk": 52,
+   "def": 50,
+   "spa": 90,
+   "spd": 50,
+   "spe": 89
+  },
+  "abilities": {
+   "0": "Shield Dust",
+   "1": "Compound Eyes",
+   "H": "Friend Guard"
+  },
+  "heightm": 1.2,
+  "weightkg": 17,
+  "baseSpecies": "Vivillon",
+  "forme": "Garden"
+ },
+ "vivillonelegant": {
+  "name": "Vivillon-Elegant",
+  "num": 666,
+  "types": [
+   "Bug",
+   "Flying"
+  ],
+  "baseStats": {
+   "hp": 80,
+   "atk": 52,
+   "def": 50,
+   "spa": 90,
+   "spd": 50,
+   "spe": 89
+  },
+  "abilities": {
+   "0": "Shield Dust",
+   "1": "Compound Eyes",
+   "H": "Friend Guard"
+  },
+  "heightm": 1.2,
+  "weightkg": 17,
+  "baseSpecies": "Vivillon",
+  "forme": "Elegant"
+ },
+ "vivillonmodern": {
+  "name": "Vivillon-Modern",
+  "num": 666,
+  "types": [
+   "Bug",
+   "Flying"
+  ],
+  "baseStats": {
+   "hp": 80,
+   "atk": 52,
+   "def": 50,
+   "spa": 90,
+   "spd": 50,
+   "spe": 89
+  },
+  "abilities": {
+   "0": "Shield Dust",
+   "1": "Compound Eyes",
+   "H": "Friend Guard"
+  },
+  "heightm": 1.2,
+  "weightkg": 17,
+  "baseSpecies": "Vivillon",
+  "forme": "Modern"
+ },
+ "vivillonmarine": {
+  "name": "Vivillon-Marine",
+  "num": 666,
+  "types": [
+   "Bug",
+   "Flying"
+  ],
+  "baseStats": {
+   "hp": 80,
+   "atk": 52,
+   "def": 50,
+   "spa": 90,
+   "spd": 50,
+   "spe": 89
+  },
+  "abilities": {
+   "0": "Shield Dust",
+   "1": "Compound Eyes",
+   "H": "Friend Guard"
+  },
+  "heightm": 1.2,
+  "weightkg": 17,
+  "baseSpecies": "Vivillon",
+  "forme": "Marine"
+ },
+ "vivillonarchipelago": {
+  "name": "Vivillon-Archipelago",
+  "num": 666,
+  "types": [
+   "Bug",
+   "Flying"
+  ],
+  "baseStats": {
+   "hp": 80,
+   "atk": 52,
+   "def": 50,
+   "spa": 90,
+   "spd": 50,
+   "spe": 89
+  },
+  "abilities": {
+   "0": "Shield Dust",
+   "1": "Compound Eyes",
+   "H": "Friend Guard"
+  },
+  "heightm": 1.2,
+  "weightkg": 17,
+  "baseSpecies": "Vivillon",
+  "forme": "Archipelago"
+ },
+ "vivillonhighplains": {
+  "name": "Vivillon-High Plains",
+  "num": 666,
+  "types": [
+   "Bug",
+   "Flying"
+  ],
+  "baseStats": {
+   "hp": 80,
+   "atk": 52,
+   "def": 50,
+   "spa": 90,
+   "spd": 50,
+   "spe": 89
+  },
+  "abilities": {
+   "0": "Shield Dust",
+   "1": "Compound Eyes",
+   "H": "Friend Guard"
+  },
+  "heightm": 1.2,
+  "weightkg": 17,
+  "baseSpecies": "Vivillon",
+  "forme": "High Plains"
+ },
+ "vivillonsandstorm": {
+  "name": "Vivillon-Sandstorm",
+  "num": 666,
+  "types": [
+   "Bug",
+   "Flying"
+  ],
+  "baseStats": {
+   "hp": 80,
+   "atk": 52,
+   "def": 50,
+   "spa": 90,
+   "spd": 50,
+   "spe": 89
+  },
+  "abilities": {
+   "0": "Shield Dust",
+   "1": "Compound Eyes",
+   "H": "Friend Guard"
+  },
+  "heightm": 1.2,
+  "weightkg": 17,
+  "baseSpecies": "Vivillon",
+  "forme": "Sandstorm"
+ },
+ "vivillonriver": {
+  "name": "Vivillon-River",
+  "num": 666,
+  "types": [
+   "Bug",
+   "Flying"
+  ],
+  "baseStats": {
+   "hp": 80,
+   "atk": 52,
+   "def": 50,
+   "spa": 90,
+   "spd": 50,
+   "spe": 89
+  },
+  "abilities": {
+   "0": "Shield Dust",
+   "1": "Compound Eyes",
+   "H": "Friend Guard"
+  },
+  "heightm": 1.2,
+  "weightkg": 17,
+  "baseSpecies": "Vivillon",
+  "forme": "River"
+ },
+ "vivillonmonsoon": {
+  "name": "Vivillon-Monsoon",
+  "num": 666,
+  "types": [
+   "Bug",
+   "Flying"
+  ],
+  "baseStats": {
+   "hp": 80,
+   "atk": 52,
+   "def": 50,
+   "spa": 90,
+   "spd": 50,
+   "spe": 89
+  },
+  "abilities": {
+   "0": "Shield Dust",
+   "1": "Compound Eyes",
+   "H": "Friend Guard"
+  },
+  "heightm": 1.2,
+  "weightkg": 17,
+  "baseSpecies": "Vivillon",
+  "forme": "Monsoon"
+ },
+ "vivillonsavanna": {
+  "name": "Vivillon-Savanna",
+  "num": 666,
+  "types": [
+   "Bug",
+   "Flying"
+  ],
+  "baseStats": {
+   "hp": 80,
+   "atk": 52,
+   "def": 50,
+   "spa": 90,
+   "spd": 50,
+   "spe": 89
+  },
+  "abilities": {
+   "0": "Shield Dust",
+   "1": "Compound Eyes",
+   "H": "Friend Guard"
+  },
+  "heightm": 1.2,
+  "weightkg": 17,
+  "baseSpecies": "Vivillon",
+  "forme": "Savanna"
+ },
+ "vivillonsun": {
+  "name": "Vivillon-Sun",
+  "num": 666,
+  "types": [
+   "Bug",
+   "Flying"
+  ],
+  "baseStats": {
+   "hp": 80,
+   "atk": 52,
+   "def": 50,
+   "spa": 90,
+   "spd": 50,
+   "spe": 89
+  },
+  "abilities": {
+   "0": "Shield Dust",
+   "1": "Compound Eyes",
+   "H": "Friend Guard"
+  },
+  "heightm": 1.2,
+  "weightkg": 17,
+  "baseSpecies": "Vivillon",
+  "forme": "Sun"
+ },
+ "vivillonocean": {
+  "name": "Vivillon-Ocean",
+  "num": 666,
+  "types": [
+   "Bug",
+   "Flying"
+  ],
+  "baseStats": {
+   "hp": 80,
+   "atk": 52,
+   "def": 50,
+   "spa": 90,
+   "spd": 50,
+   "spe": 89
+  },
+  "abilities": {
+   "0": "Shield Dust",
+   "1": "Compound Eyes",
+   "H": "Friend Guard"
+  },
+  "heightm": 1.2,
+  "weightkg": 17,
+  "baseSpecies": "Vivillon",
+  "forme": "Ocean"
+ },
+ "vivillonjungle": {
+  "name": "Vivillon-Jungle",
+  "num": 666,
+  "types": [
+   "Bug",
+   "Flying"
+  ],
+  "baseStats": {
+   "hp": 80,
+   "atk": 52,
+   "def": 50,
+   "spa": 90,
+   "spd": 50,
+   "spe": 89
+  },
+  "abilities": {
+   "0": "Shield Dust",
+   "1": "Compound Eyes",
+   "H": "Friend Guard"
+  },
+  "heightm": 1.2,
+  "weightkg": 17,
+  "baseSpecies": "Vivillon",
+  "forme": "Jungle"
+ },
+ "pyroarmega": {
+  "name": "Pyroar-Mega",
+  "num": 668,
+  "types": [
+   "Fire",
+   "Normal"
+  ],
+  "baseStats": {
+   "hp": 86,
+   "atk": 88,
+   "def": 92,
+   "spa": 129,
+   "spd": 86,
+   "spe": 126
+  },
+  "abilities": {
+   "0": "Fire Mane"
+  },
+  "heightm": 1.5,
+  "weightkg": 93.3,
+  "baseSpecies": "Pyroar",
+  "forme": "Mega",
+  "requiredItem": "Pyroarite"
+ },
+ "floettemega": {
+  "name": "Floette-Mega",
+  "num": 670,
+  "types": [
+   "Fairy"
+  ],
+  "baseStats": {
+   "hp": 74,
+   "atk": 85,
+   "def": 87,
+   "spa": 155,
+   "spd": 148,
+   "spe": 102
+  },
+  "abilities": {
+   "0": "Fairy Aura"
+  },
+  "heightm": 0.2,
+  "weightkg": 100.8,
+  "baseSpecies": "Floette",
+  "forme": "Mega",
+  "requiredItem": "Floettite"
+ },
+ "meowsticmmega": {
+  "name": "Meowstic-M-Mega",
+  "num": 678,
+  "types": [
+   "Psychic"
+  ],
+  "baseStats": {
+   "hp": 74,
+   "atk": 48,
+   "def": 76,
+   "spa": 143,
+   "spd": 101,
+   "spe": 124
+  },
+  "abilities": {
+   "0": "Trace"
+  },
+  "heightm": 0.8,
+  "weightkg": 10.1,
+  "baseSpecies": "Meowstic",
+  "forme": "M-Mega",
+  "requiredItem": "Meowsticite"
+ },
+ "meowsticfmega": {
+  "name": "Meowstic-F-Mega",
+  "num": 678,
+  "types": [
+   "Psychic"
+  ],
+  "baseStats": {
+   "hp": 74,
+   "atk": 48,
+   "def": 76,
+   "spa": 143,
+   "spd": 101,
+   "spe": 124
+  },
+  "abilities": {
+   "0": "Trace"
+  },
+  "heightm": 0.8,
+  "weightkg": 10.1,
+  "baseSpecies": "Meowstic",
+  "forme": "F-Mega",
+  "requiredItem": "Meowsticite"
+ },
+ "malamarmega": {
+  "name": "Malamar-Mega",
+  "num": 687,
+  "types": [
+   "Dark",
+   "Psychic"
+  ],
+  "baseStats": {
+   "hp": 86,
+   "atk": 102,
+   "def": 88,
+   "spa": 98,
+   "spd": 120,
+   "spe": 88
+  },
+  "abilities": {
+   "0": "Contrary"
+  },
+  "heightm": 2.9,
+  "weightkg": 69.8,
+  "baseSpecies": "Malamar",
+  "forme": "Mega",
+  "requiredItem": "Malamarite"
+ },
+ "barbaraclemega": {
+  "name": "Barbaracle-Mega",
+  "num": 689,
+  "types": [
+   "Rock",
+   "Fighting"
+  ],
+  "baseStats": {
+   "hp": 72,
+   "atk": 140,
+   "def": 130,
+   "spa": 64,
+   "spd": 106,
+   "spe": 88
+  },
+  "abilities": {
+   "0": "Tough Claws"
+  },
+  "heightm": 2.2,
+  "weightkg": 100,
+  "baseSpecies": "Barbaracle",
+  "forme": "Mega",
+  "requiredItem": "Barbaracite"
+ },
+ "dragalgemega": {
+  "name": "Dragalge-Mega",
+  "num": 691,
+  "types": [
+   "Poison",
+   "Dragon"
+  ],
+  "baseStats": {
+   "hp": 65,
+   "atk": 85,
+   "def": 105,
+   "spa": 132,
+   "spd": 163,
+   "spe": 44
+  },
+  "abilities": {
+   "0": "Regenerator"
+  },
+  "heightm": 2.1,
+  "weightkg": 100.3,
+  "baseSpecies": "Dragalge",
+  "forme": "Mega",
+  "requiredItem": "Dragalgite"
+ },
+ "hawluchamega": {
+  "name": "Hawlucha-Mega",
+  "num": 701,
+  "types": [
+   "Fighting",
+   "Flying"
+  ],
+  "baseStats": {
+   "hp": 78,
+   "atk": 137,
+   "def": 100,
+   "spa": 74,
+   "spd": 93,
+   "spe": 118
+  },
+  "abilities": {
+   "0": "No Guard"
+  },
+  "heightm": 1,
+  "weightkg": 25,
+  "baseSpecies": "Hawlucha",
+  "forme": "Mega",
+  "requiredItem": "Hawluchanite"
+ },
+ "zygardemega": {
+  "name": "Zygarde-Mega",
+  "num": 718,
+  "types": [
+   "Dragon",
+   "Ground"
+  ],
+  "baseStats": {
+   "hp": 216,
+   "atk": 70,
+   "def": 91,
+   "spa": 216,
+   "spd": 85,
+   "spe": 100
+  },
+  "abilities": {
+   "0": "Aura Break"
+  },
+  "heightm": 7.7,
+  "weightkg": 610,
+  "baseSpecies": "Zygarde",
+  "forme": "Mega",
+  "requiredItem": "Zygardite"
+ },
+ "crabominablemega": {
+  "name": "Crabominable-Mega",
+  "num": 740,
+  "types": [
+   "Fighting",
+   "Ice"
+  ],
+  "baseStats": {
+   "hp": 97,
+   "atk": 157,
+   "def": 122,
+   "spa": 62,
+   "spd": 107,
+   "spe": 33
+  },
+  "abilities": {
+   "0": "Iron Fist"
+  },
+  "heightm": 2.6,
+  "weightkg": 252.8,
+  "baseSpecies": "Crabominable",
+  "forme": "Mega",
+  "requiredItem": "Crabominite"
+ },
+ "golisopodmega": {
+  "name": "Golisopod-Mega",
+  "num": 768,
+  "types": [
+   "Bug",
+   "Steel"
+  ],
+  "baseStats": {
+   "hp": 75,
+   "atk": 150,
+   "def": 175,
+   "spa": 70,
+   "spd": 120,
+   "spe": 40
+  },
+  "abilities": {
+   "0": "Tough Claws"
+  },
+  "heightm": 2.3,
+  "weightkg": 148,
+  "baseSpecies": "Golisopod",
+  "forme": "Mega",
+  "requiredItem": "Golisopite"
+ },
+ "miniororange": {
+  "name": "Minior-Orange",
+  "num": 774,
+  "types": [
+   "Rock",
+   "Flying"
+  ],
+  "baseStats": {
+   "hp": 60,
+   "atk": 100,
+   "def": 60,
+   "spa": 100,
+   "spd": 60,
+   "spe": 120
+  },
+  "abilities": {
+   "0": "Shields Down"
+  },
+  "heightm": 0.3,
+  "weightkg": 0.3,
+  "baseSpecies": "Minior",
+  "forme": "Orange"
+ },
+ "minioryellow": {
+  "name": "Minior-Yellow",
+  "num": 774,
+  "types": [
+   "Rock",
+   "Flying"
+  ],
+  "baseStats": {
+   "hp": 60,
+   "atk": 100,
+   "def": 60,
+   "spa": 100,
+   "spd": 60,
+   "spe": 120
+  },
+  "abilities": {
+   "0": "Shields Down"
+  },
+  "heightm": 0.3,
+  "weightkg": 0.3,
+  "baseSpecies": "Minior",
+  "forme": "Yellow"
+ },
+ "miniorgreen": {
+  "name": "Minior-Green",
+  "num": 774,
+  "types": [
+   "Rock",
+   "Flying"
+  ],
+  "baseStats": {
+   "hp": 60,
+   "atk": 100,
+   "def": 60,
+   "spa": 100,
+   "spd": 60,
+   "spe": 120
+  },
+  "abilities": {
+   "0": "Shields Down"
+  },
+  "heightm": 0.3,
+  "weightkg": 0.3,
+  "baseSpecies": "Minior",
+  "forme": "Green"
+ },
+ "miniorblue": {
+  "name": "Minior-Blue",
+  "num": 774,
+  "types": [
+   "Rock",
+   "Flying"
+  ],
+  "baseStats": {
+   "hp": 60,
+   "atk": 100,
+   "def": 60,
+   "spa": 100,
+   "spd": 60,
+   "spe": 120
+  },
+  "abilities": {
+   "0": "Shields Down"
+  },
+  "heightm": 0.3,
+  "weightkg": 0.3,
+  "baseSpecies": "Minior",
+  "forme": "Blue"
+ },
+ "miniorindigo": {
+  "name": "Minior-Indigo",
+  "num": 774,
+  "types": [
+   "Rock",
+   "Flying"
+  ],
+  "baseStats": {
+   "hp": 60,
+   "atk": 100,
+   "def": 60,
+   "spa": 100,
+   "spd": 60,
+   "spe": 120
+  },
+  "abilities": {
+   "0": "Shields Down"
+  },
+  "heightm": 0.3,
+  "weightkg": 0.3,
+  "baseSpecies": "Minior",
+  "forme": "Indigo"
+ },
+ "miniorviolet": {
+  "name": "Minior-Violet",
+  "num": 774,
+  "types": [
+   "Rock",
+   "Flying"
+  ],
+  "baseStats": {
+   "hp": 60,
+   "atk": 100,
+   "def": 60,
+   "spa": 100,
+   "spd": 60,
+   "spe": 120
+  },
+  "abilities": {
+   "0": "Shields Down"
+  },
+  "heightm": 0.3,
+  "weightkg": 0.3,
+  "baseSpecies": "Minior",
+  "forme": "Violet"
+ },
+ "drampamega": {
+  "name": "Drampa-Mega",
+  "num": 780,
+  "types": [
+   "Normal",
+   "Dragon"
+  ],
+  "baseStats": {
+   "hp": 78,
+   "atk": 85,
+   "def": 110,
+   "spa": 160,
+   "spd": 116,
+   "spe": 36
+  },
+  "abilities": {
+   "0": "Berserk"
+  },
+  "heightm": 3,
+  "weightkg": 240.5,
+  "baseSpecies": "Drampa",
+  "forme": "Mega",
+  "requiredItem": "Drampanite"
+ },
+ "magearnamega": {
+  "name": "Magearna-Mega",
+  "num": 801,
+  "types": [
+   "Steel",
+   "Fairy"
+  ],
+  "baseStats": {
+   "hp": 80,
+   "atk": 125,
+   "def": 115,
+   "spa": 170,
+   "spd": 115,
+   "spe": 95
+  },
+  "abilities": {
+   "0": "Soul-Heart"
+  },
+  "heightm": 1.3,
+  "weightkg": 248.1,
+  "baseSpecies": "Magearna",
+  "forme": "Mega",
+  "requiredItem": "Magearnite"
+ },
+ "magearnaoriginalmega": {
+  "name": "Magearna-Original-Mega",
+  "num": 801,
+  "types": [
+   "Steel",
+   "Fairy"
+  ],
+  "baseStats": {
+   "hp": 80,
+   "atk": 125,
+   "def": 115,
+   "spa": 170,
+   "spd": 115,
+   "spe": 95
+  },
+  "abilities": {
+   "0": "Soul-Heart"
+  },
+  "heightm": 1.3,
+  "weightkg": 248.1,
+  "baseSpecies": "Magearna",
+  "forme": "Original-Mega",
+  "requiredItem": "Magearnite"
+ },
+ "zeraoramega": {
+  "name": "Zeraora-Mega",
+  "num": 807,
+  "types": [
+   "Electric"
+  ],
+  "baseStats": {
+   "hp": 88,
+   "atk": 157,
+   "def": 75,
+   "spa": 147,
+   "spd": 80,
+   "spe": 153
+  },
+  "abilities": {
+   "0": "Volt Absorb"
+  },
+  "heightm": 1.5,
+  "weightkg": 44.5,
+  "baseSpecies": "Zeraora",
+  "forme": "Mega",
+  "requiredItem": "Zeraorite"
+ },
+ "alcremierubycream": {
+  "name": "Alcremie-Ruby-Cream",
+  "num": 869,
+  "types": [
+   "Fairy"
+  ],
+  "baseStats": {
+   "hp": 65,
+   "atk": 60,
+   "def": 75,
+   "spa": 110,
+   "spd": 121,
+   "spe": 64
+  },
+  "abilities": {
+   "0": "Sweet Veil",
+   "H": "Aroma Veil"
+  },
+  "heightm": 0.3,
+  "weightkg": 0.5,
+  "baseSpecies": "Alcremie",
+  "forme": "Ruby-Cream"
+ },
+ "alcremiematchacream": {
+  "name": "Alcremie-Matcha-Cream",
+  "num": 869,
+  "types": [
+   "Fairy"
+  ],
+  "baseStats": {
+   "hp": 65,
+   "atk": 60,
+   "def": 75,
+   "spa": 110,
+   "spd": 121,
+   "spe": 64
+  },
+  "abilities": {
+   "0": "Sweet Veil",
+   "H": "Aroma Veil"
+  },
+  "heightm": 0.3,
+  "weightkg": 0.5,
+  "baseSpecies": "Alcremie",
+  "forme": "Matcha-Cream"
+ },
+ "alcremiemintcream": {
+  "name": "Alcremie-Mint-Cream",
+  "num": 869,
+  "types": [
+   "Fairy"
+  ],
+  "baseStats": {
+   "hp": 65,
+   "atk": 60,
+   "def": 75,
+   "spa": 110,
+   "spd": 121,
+   "spe": 64
+  },
+  "abilities": {
+   "0": "Sweet Veil",
+   "H": "Aroma Veil"
+  },
+  "heightm": 0.3,
+  "weightkg": 0.5,
+  "baseSpecies": "Alcremie",
+  "forme": "Mint-Cream"
+ },
+ "alcremielemoncream": {
+  "name": "Alcremie-Lemon-Cream",
+  "num": 869,
+  "types": [
+   "Fairy"
+  ],
+  "baseStats": {
+   "hp": 65,
+   "atk": 60,
+   "def": 75,
+   "spa": 110,
+   "spd": 121,
+   "spe": 64
+  },
+  "abilities": {
+   "0": "Sweet Veil",
+   "H": "Aroma Veil"
+  },
+  "heightm": 0.3,
+  "weightkg": 0.5,
+  "baseSpecies": "Alcremie",
+  "forme": "Lemon-Cream"
+ },
+ "alcremierubyswirl": {
+  "name": "Alcremie-Ruby-Swirl",
+  "num": 869,
+  "types": [
+   "Fairy"
+  ],
+  "baseStats": {
+   "hp": 65,
+   "atk": 60,
+   "def": 75,
+   "spa": 110,
+   "spd": 121,
+   "spe": 64
+  },
+  "abilities": {
+   "0": "Sweet Veil",
+   "H": "Aroma Veil"
+  },
+  "heightm": 0.3,
+  "weightkg": 0.5,
+  "baseSpecies": "Alcremie",
+  "forme": "Ruby-Swirl"
+ },
+ "alcremiecaramelswirl": {
+  "name": "Alcremie-Caramel-Swirl",
+  "num": 869,
+  "types": [
+   "Fairy"
+  ],
+  "baseStats": {
+   "hp": 65,
+   "atk": 60,
+   "def": 75,
+   "spa": 110,
+   "spd": 121,
+   "spe": 64
+  },
+  "abilities": {
+   "0": "Sweet Veil",
+   "H": "Aroma Veil"
+  },
+  "heightm": 0.3,
+  "weightkg": 0.5,
+  "baseSpecies": "Alcremie",
+  "forme": "Caramel-Swirl"
+ },
+ "alcremierainbowswirl": {
+  "name": "Alcremie-Rainbow-Swirl",
+  "num": 869,
+  "types": [
+   "Fairy"
+  ],
+  "baseStats": {
+   "hp": 65,
+   "atk": 60,
+   "def": 75,
+   "spa": 110,
+   "spd": 121,
+   "spe": 64
+  },
+  "abilities": {
+   "0": "Sweet Veil",
+   "H": "Aroma Veil"
+  },
+  "heightm": 0.3,
+  "weightkg": 0.5,
+  "baseSpecies": "Alcremie",
+  "forme": "Rainbow-Swirl"
+ },
+ "falinksmega": {
+  "name": "Falinks-Mega",
+  "num": 870,
+  "types": [
+   "Fighting"
+  ],
+  "baseStats": {
+   "hp": 65,
+   "atk": 135,
+   "def": 135,
+   "spa": 70,
+   "spd": 65,
+   "spe": 100
+  },
+  "abilities": {
+   "0": "Defiant"
+  },
+  "heightm": 1.6,
+  "weightkg": 99,
+  "baseSpecies": "Falinks",
+  "forme": "Mega",
+  "requiredItem": "Falinksite"
+ },
+ "scovillainmega": {
+  "name": "Scovillain-Mega",
+  "num": 952,
+  "types": [
+   "Grass",
+   "Fire"
+  ],
+  "baseStats": {
+   "hp": 65,
+   "atk": 138,
+   "def": 85,
+   "spa": 138,
+   "spd": 85,
+   "spe": 75
+  },
+  "abilities": {
+   "0": "Spicy Spray"
+  },
+  "heightm": 1.2,
+  "weightkg": 22,
+  "baseSpecies": "Scovillain",
+  "forme": "Mega",
+  "requiredItem": "Scovillainite"
+ },
+ "glimmoramega": {
+  "name": "Glimmora-Mega",
+  "num": 970,
+  "types": [
+   "Rock",
+   "Poison"
+  ],
+  "baseStats": {
+   "hp": 83,
+   "atk": 90,
+   "def": 105,
+   "spa": 150,
+   "spd": 96,
+   "spe": 101
+  },
+  "abilities": {
+   "0": "Adaptability"
+  },
+  "heightm": 2.8,
+  "weightkg": 77,
+  "baseSpecies": "Glimmora",
+  "forme": "Mega",
+  "requiredItem": "Glimmoranite"
+ },
+ "tatsugiridroopy": {
+  "name": "Tatsugiri-Droopy",
+  "num": 978,
+  "types": [
+   "Dragon",
+   "Water"
+  ],
+  "baseStats": {
+   "hp": 68,
+   "atk": 50,
+   "def": 60,
+   "spa": 120,
+   "spd": 95,
+   "spe": 82
+  },
+  "abilities": {
+   "0": "Commander",
+   "H": "Storm Drain"
+  },
+  "heightm": 0.3,
+  "weightkg": 8,
+  "baseSpecies": "Tatsugiri",
+  "forme": "Droopy"
+ },
+ "tatsugiristretchy": {
+  "name": "Tatsugiri-Stretchy",
+  "num": 978,
+  "types": [
+   "Dragon",
+   "Water"
+  ],
+  "baseStats": {
+   "hp": 68,
+   "atk": 50,
+   "def": 60,
+   "spa": 120,
+   "spd": 95,
+   "spe": 82
+  },
+  "abilities": {
+   "0": "Commander",
+   "H": "Storm Drain"
+  },
+  "heightm": 0.3,
+  "weightkg": 8,
+  "baseSpecies": "Tatsugiri",
+  "forme": "Stretchy"
+ },
+ "tatsugiricurlymega": {
+  "name": "Tatsugiri-Curly-Mega",
+  "num": 978,
+  "types": [
+   "Dragon",
+   "Water"
+  ],
+  "baseStats": {
+   "hp": 68,
+   "atk": 65,
+   "def": 90,
+   "spa": 135,
+   "spd": 125,
+   "spe": 92
+  },
+  "abilities": {
+   "0": "Commander",
+   "H": "Storm Drain"
+  },
+  "heightm": 0.3,
+  "weightkg": 24,
+  "baseSpecies": "Tatsugiri",
+  "forme": "Curly-Mega",
+  "requiredItem": "Tatsugirinite"
+ },
+ "tatsugiridroopymega": {
+  "name": "Tatsugiri-Droopy-Mega",
+  "num": 978,
+  "types": [
+   "Dragon",
+   "Water"
+  ],
+  "baseStats": {
+   "hp": 68,
+   "atk": 65,
+   "def": 90,
+   "spa": 135,
+   "spd": 125,
+   "spe": 92
+  },
+  "abilities": {
+   "0": "Commander",
+   "H": "Storm Drain"
+  },
+  "heightm": 0.3,
+  "weightkg": 24,
+  "baseSpecies": "Tatsugiri",
+  "forme": "Droopy-Mega",
+  "requiredItem": "Tatsugirinite"
+ },
+ "tatsugiristretchymega": {
+  "name": "Tatsugiri-Stretchy-Mega",
+  "num": 978,
+  "types": [
+   "Dragon",
+   "Water"
+  ],
+  "baseStats": {
+   "hp": 68,
+   "atk": 65,
+   "def": 90,
+   "spa": 135,
+   "spd": 125,
+   "spe": 92
+  },
+  "abilities": {
+   "0": "Commander",
+   "H": "Storm Drain"
+  },
+  "heightm": 0.3,
+  "weightkg": 24,
+  "baseSpecies": "Tatsugiri",
+  "forme": "Stretchy-Mega",
+  "requiredItem": "Tatsugirinite"
+ },
+ "baxcaliburmega": {
+  "name": "Baxcalibur-Mega",
+  "num": 998,
+  "types": [
+   "Dragon",
+   "Ice"
+  ],
+  "baseStats": {
+   "hp": 115,
+   "atk": 175,
+   "def": 117,
+   "spa": 105,
+   "spd": 101,
+   "spe": 87
+  },
+  "abilities": {
+   "0": "Thermal Exchange"
+  },
+  "heightm": 2.1,
+  "weightkg": 315,
+  "baseSpecies": "Baxcalibur",
+  "forme": "Mega",
+  "requiredItem": "Baxcalibrite"
+ }
+}

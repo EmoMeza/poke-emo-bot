@@ -1,0 +1,53 @@
+Kingambit @ Occa Berry
+Ability: Defiant
+Adamant Nature
+EVs: 5 HP / 29 Atk / 4 SpD / 28 Spe
+- Kowtow Cleave
+- Sucker Punch
+- Iron Head
+- Low Kick
+
+Basculegion @ Life Orb
+Ability: Adaptability
+Adamant Nature
+EVs: 4 HP / 28 Atk / 8 Def / 5 SpD / 21 Spe
+- Wave Crash
+- Last Respects
+- Aqua Jet
+- Protect
+
+Garchomp @ Sitrus Berry
+Ability: Rough Skin
+Jolly Nature
+EVs: 21 HP / 7 Atk / 6 Def / 32 Spe
+- Dragon Claw
+- Earthquake
+- Rock Slide
+- Protect
+
+Charizard @ Charizardite Y
+Ability: Blaze
+Timid Nature
+EVs: 12 HP / 14 Def / 8 SpA / 32 Spe
+- Heat Wave
+- Weather Ball
+- Ancient Power
+- Protect
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Timid Nature
+EVs: 2 HP / 32 SpA / 32 Spe
+- Moonblast
+- Tailwind
+- Encore
+- Protect
+
+Floette-Eternal @ Floettite
+Ability: Flower Veil
+Modest Nature
+EVs: 14 HP / 14 Def / 19 SpA / 19 Spe
+- Moonblast
+- Dazzling Gleam
+- Light of Ruin
+- Protect

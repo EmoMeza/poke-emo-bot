@@ -1,0 +1,53 @@
+Dragonite @ Dragoninite
+Ability: Multiscale
+Modest Nature
+EVs: 2 HP / 32 SpA / 32 Spe
+- Dragon Pulse
+- Heat Wave
+- Extreme Speed
+- Protect
+
+Floette-Eternal @ Floettite
+Ability: Flower Veil
+Timid Nature
+EVs: 4 HP / 8 Def / 32 SpA / 22 Spe
+- Moonblast
+- Dazzling Gleam
+- Light of Ruin
+- Protect
+
+Basculegion @ Life Orb
+Ability: Adaptability
+Adamant Nature
+EVs: 4 HP / 18 Atk / 4 Def / 15 SpD / 25 Spe
+- Wave Crash
+- Last Respects
+- Aqua Jet
+- Protect
+
+Sneasler @ Focus Sash
+Ability: Poison Touch
+Jolly Nature
+EVs: 2 HP / 32 Atk / 32 Spe
+- Close Combat
+- Dire Claw
+- Fake Out
+- Feint
+
+Kingambit @ Chople Berry
+Ability: Defiant
+Adamant Nature
+EVs: 32 HP / 15 Atk / 19 SpD
+- Sucker Punch
+- Kowtow Cleave
+- Low Kick
+- Iron Head
+
+Garchomp @ Choice Scarf
+Ability: Rough Skin
+Adamant Nature
+EVs: 10 HP / 20 Atk / 9 Def / 27 Spe
+- Dragon Claw
+- Stomping Tantrum
+- Earthquake
+- Rock Slide

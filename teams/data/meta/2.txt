@@ -1,0 +1,53 @@
+Froslass @ Froslassite
+Ability: Cursed Body
+Timid Nature
+EVs: 25 HP / 14 SpD / 27 Spe
+- Blizzard
+- Shadow Ball
+- Aurora Veil
+- Protect
+
+Scovillain @ Scovillainite
+Ability: Moody
+Bold Nature
+EVs: 31 HP / 15 Def / 15 SpD / 5 Spe
+- Giga Drain
+- Overheat
+- Rage Powder
+- Protect
+
+Basculegion @ Life Orb
+Ability: Adaptability
+Adamant Nature
+EVs: 4 HP / 28 Atk / 13 Def / 21 Spe
+- Wave Crash
+- Last Respects
+- Aqua Jet
+- Protect
+
+Lycanroc-Dusk @ Focus Sash
+Ability: Tough Claws
+Adamant Nature
+EVs: 32 Atk / 2 Def / 32 Spe
+- Close Combat
+- Accelerock
+- Rock Slide
+- Protect
+
+Sneasler @ White Herb
+Ability: Unburden
+Adamant Nature
+EVs: 18 HP / 12 Atk / 5 Def / 1 SpD / 30 Spe
+- Close Combat
+- Dire Claw
+- Protect
+- Fake Out
+
+Kingambit @ Black Glasses
+Ability: Defiant
+Adamant Nature
+EVs: 32 HP / 32 Atk / 1 SpD / 1 Spe
+- Kowtow Cleave
+- Sucker Punch
+- Swords Dance
+- Protect

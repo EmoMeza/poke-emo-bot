@@ -1,0 +1,53 @@
+Whimsicott @ Focus Sash
+Ability: Prankster
+Timid Nature
+EVs: 2 Def / 32 SpA / 32 Spe
+- Moonblast
+- Tailwind
+- Encore
+- Protect
+
+Basculegion @ Life Orb
+Ability: Adaptability
+Adamant Nature
+EVs: 23 Atk / 14 Def / 2 SpD / 27 Spe
+- Wave Crash
+- Last Respects
+- Aqua Jet
+- Protect
+
+Floette-Eternal @ Floettite
+Ability: Flower Veil
+Timid Nature
+EVs: 2 HP / 32 SpA / 32 Spe
+- Moonblast
+- Dazzling Gleam
+- Light of Ruin
+- Protect
+
+Dragonite @ Dragoninite
+Ability: Inner Focus
+Modest Nature
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+- Dragon Pulse
+- Heat Wave
+- Thunderbolt
+- Protect
+
+Sneasler @ White Herb
+Ability: Unburden
+Jolly Nature
+EVs: 12 HP / 32 Atk / 4 SpD / 18 Spe
+- Dire Claw
+- Close Combat
+- Rock Slide
+- Fake Out
+
+Kingambit @ Chople Berry
+Ability: Defiant
+Adamant Nature
+EVs: 32 HP / 15 Atk / 2 Def / 2 SpD / 15 Spe
+- Kowtow Cleave
+- Iron Head
+- Low Kick
+- Sucker Punch

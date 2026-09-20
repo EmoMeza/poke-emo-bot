@@ -1,0 +1,53 @@
+Sylveon @ Fairy Feather
+Ability: Pixilate
+Modest Nature
+EVs: 7 HP / 23 Def / 26 SpA / 10 Spe
+- Hyper Voice
+- Hyper Beam
+- Quick Attack
+- Protect
+
+Aerodactyl @ Aerodactylite
+Ability: Unnerve
+Jolly Nature
+EVs: 16 HP / 13 Atk / 5 SpD / 32 Spe
+- Rock Slide
+- Dual Wingbeat
+- Tailwind
+- Ice Fang
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Bold Nature
+EVs: 27 HP / 20 Def / 19 SpD
+- Psychic
+- Thunderbolt
+- Trick Room
+- Protect
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+Jolly Nature
+EVs: 32 Atk / 1 Def / 1 SpD / 32 Spe
+- Earthquake
+- Rock Tomb
+- Dragon Claw
+- Protect
+
+Kingambit @ Focus Sash
+Ability: Defiant
+Adamant Nature
+EVs: 32 Atk / 2 SpD / 32 Spe
+- Kowtow Cleave
+- Sucker Punch
+- Iron Head
+- Low Kick
+
+Charizard @ Charizardite Y
+Ability: Blaze
+Modest Nature
+EVs: 32 HP / 12 Def / 1 SpA / 21 Spe
+- Heat Wave
+- Weather Ball
+- Solar Beam
+- Protect
