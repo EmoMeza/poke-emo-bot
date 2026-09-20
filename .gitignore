@@ -216,3 +216,23 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local Pokemon Showdown server (cloned separately, not part of this repo)
+/pokemonshowdown-server/
+
+# Entrenamiento: curvas de TensorBoard y pesos (la carpeta checkpoints/ se conserva)
+runs/
+checkpoints/*.pt
+!checkpoints/pretrained.pt
+
+# macOS y editores
+.DS_Store
+.cursor/
+.vscode/
+.idea/
+
+# Salida de procesos lanzados en segundo plano
+nohup.out
+
+# Notas personales (no se publican)
+NOTAS_PERSONALES.md

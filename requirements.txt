@@ -1,0 +1,7 @@
+poke_env==0.10.0
+torch==2.8.0
+tensorboard==2.21.0
+numpy==2.0.2
+gymnasium==1.1.1
+pettingzoo==1.26.1
+matplotlib==3.9.4
